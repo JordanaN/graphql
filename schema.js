@@ -41,6 +41,7 @@ let schema = new graphql.GraphQLSchema({
 					return response
 				}					
 			}
+
 		}
 	})
 })
